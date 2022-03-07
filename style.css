@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 12pt;
+  line-height: 10pt;
+}
+
+canvas {
+  padding-top: 9%;
+  display: block;
+}
